@@ -24,11 +24,11 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD Researcher
-          company: University of Manchester / Cockcroft Institute
+        - title: "PhD Researcher"
+          company: "University of Manchester / Cockcroft Institute"
           company_url: ''
           company_logo: ''
-          location: Warrington, UK
+          location: "Warrington, UK"
           date_start: '2023-01-01'
           date_end: ''
           description: |2-
@@ -37,19 +37,19 @@ sections:
              * Develop numerical models and simulations of electron-beam dynamics using Python and MATLAB[cite: 2].
              * Analyse experimental and simulation data to extract physical parameters, correlations, and performance metrics[cite: 2].
              * Validate and optimise models using experimental data, sensitivity analysis, and automated Python workflows[cite: 2].
-        - title: Master's thesis
-          company: ICMUV institute
+        - title: "Master's thesis"
+          company: "ICMUV institute"
           company_url: ''
           company_logo: icmuv
-          location: Valencia, Spain
+          location: "Valencia, Spain"
           date_start: '2023-03-20'
           date_end: '2023-08-20'
-          description: Modeling ultra-high accelerating gradients in carbon-based nanostructures through an effective plasma-density approach.
-        - title: Practical Researches
-          company: CERN institute
+          description: "Modeling ultra-high accelerating gradients in carbon-based nanostructures through an effective plasma-density approach."
+        - title: "Practical Researches"
+          company: "CERN institute"
           company_url: ''
           company_logo: cern-vector-logo
-          location: Geneva, Switzerland
+          location: "Geneva, Switzerland"
           date_start: '2023-02-04'
           date_end: '2023-02-28'
           description: |2-
@@ -57,11 +57,11 @@ sections:
 
              * RF measurement methods 
              * Beam Diagnostic of CLEAR beamline
-        - title: Practical Researches
-          company: SOLEIL institute
+        - title: "Practical Researches"
+          company: "SOLEIL institute"
           company_url: ''
           company_logo: logo_0
-          location: Saint-Aubin, France
+          location: "Saint-Aubin, France"
           date_start: '2022-10-01'
           date_end: '2023-01-31'
           description: |2-
@@ -69,11 +69,11 @@ sections:
 
              * Crystallography by Low Energy Electron Diffraction
              * Longitudinal Beam measurement of SOLEIL synchrotron
-        - title: Practical Researches
-          company: INFN institute
+        - title: "Practical Researches"
+          company: "INFN institute"
           company_url: ''
           company_logo: infn
-          location: Frascati, Italy
+          location: "Frascati, Italy"
           date_start: '2022-03-01'
           date_end: '2022-07-30'
           description: |2-
@@ -81,11 +81,11 @@ sections:
 
              * Plasma Diagnostics for Plasma based Accelerators
              * Image denoising by Artificial Inteligent
-        - title: Teaching assistant
-          company: University of Manchester & Urmia University
+        - title: "Teaching assistant"
+          company: "University of Manchester & Urmia University"
           company_url: ''
           company_logo: ''
-          location: Manchester, UK / Urmia, Iran
+          location: "Manchester, UK / Urmia, Iran"
           date_start: '2019-08-01'
           date_end: ''
           description: |2-
@@ -97,79 +97,75 @@ sections:
       columns: '2'
   - block: accomplishments
     content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Achievements & Certifications'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
+      subtitle: ''
       date_format: Jan 2006
       items:
         - certificate_url: ''
           date_end: ''
           date_start: '2026-03-01'
           description: ''
-          organization: IPAC 2026
+          organization: "IPAC 2026"
           organization_url: ''
-          title: 3rd Place - Hackathonino[cite: 2]
+          title: "3rd Place - Hackathonino"[cite: 2]
           url: ''
         - certificate_url: ''
           date_end: ''
           date_start: '2026-03-01'
           description: ''
-          organization: IOP PABG
+          organization: "IOP PABG"
           organization_url: ''
-          title: Best Student Poster Prize[cite: 2]
+          title: "Best Student Poster Prize"[cite: 2]
           url: ''
-        - certificate_url: https://www.se.manchester.ac.uk/phds-science-engineering/funding/deans-doctoral-scholarship/
+        - certificate_url: 'https://www.se.manchester.ac.uk/phds-science-engineering/funding/deans-doctoral-scholarship/'
           date_end: ''
           date_start: '2023-09-05'
           description: ''
-          organization: Manchester University
-          organization_url: https://www.se.manchester.ac.uk/phds-science-engineering/funding/deans-doctoral-scholarship/
-          title: Dean's Doctoral Scholarship[cite: 2]
+          organization: "Manchester University"
+          organization_url: 'https://www.se.manchester.ac.uk/phds-science-engineering/funding/deans-doctoral-scholarship/'
+          title: "Dean's Doctoral Scholarship"[cite: 2]
           url: ''
-        - certificate_url: https://www.master-lascala.eu/
+        - certificate_url: 'https://www.master-lascala.eu/'
           date_end: '2023-09-01'
           date_start: '2021-09-01'
           description: ''
-          organization: Erasmus+
-          organization_url: https://erasmus-plus.ec.europa.eu/
-          title: Erasmus Mundus Joint Masters scholarships for LASCALA program[cite: 2]
+          organization: "Erasmus+"
+          organization_url: 'https://erasmus-plus.ec.europa.eu/'
+          title: "Erasmus Mundus Joint Masters scholarships for LASCALA program"[cite: 2]
           url: ''
         - certificate_url: ''
           date_end: ''
           date_start: '2023-01-01'
           description: ''
-          organization: Advance HE
+          organization: "Advance HE"
           organization_url: ''
-          title: Associate Fellow of Advance HE (AFHEA)[cite: 2]
+          title: "Associate Fellow of Advance HE (AFHEA)"[cite: 2]
           url: ''
         - certificate_url: ''
           date_end: ''
           date_start: '2023-01-01'
           description: ''
-          organization: Online Certification
+          organization: "Online Certification"
           organization_url: ''
-          title: Using Machine Learning in Trading and Finance Certificate[cite: 2]
+          title: "Using Machine Learning in Trading and Finance Certificate"[cite: 2]
           url: ''
         - certificate_url: ''
           date_end: ''
           date_start: '2023-01-01'
           description: ''
-          organization: IBM
+          organization: "IBM"
           organization_url: ''
-          title: IBM Data Science Professional Certificate[cite: 2]
+          title: "IBM Data Science Professional Certificate"[cite: 2]
           url: ''
     design:
       columns: '2'
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: "Recent Posts"
       subtitle: ''
       text: ''
-      # Choose how many pages you would like to display (0 = all pages)
       count: 5
-      # Filter on criteria
       filters:
         folders:
           - post
@@ -180,41 +176,34 @@ sections:
         exclude_future: false
         exclude_past: false
         publication_type: ""
-      # Choose how many pages you would like to offset by
       offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
-      # Choose a layout view
       view: compact
       columns: '2'
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: "Projects"
       filters:
         folders:
           - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       buttons:
-        - name: Compact particle accelerators
+        - name: "Compact particle accelerators"
           tag: '*'
-        - name: THz acceleration
+        - name: "THz acceleration"
           tag: THz
-        - name: NACANA
+        - name: "NACANA"
           tag: NACANA
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      
-      # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
   - block: collection
     id: publication
     content:
-      title: Recent Publications
+      title: "Recent Publications"
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -229,22 +218,18 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
-      subtitle:
+      title: "Contact"
+      subtitle: ''
       text: ''
-      # Contact (add or remove contact options as necessary)
-      email: a.aminii@outlook.com
-      # phone: 888 888 88 88
+      email: "a.aminii@outlook.com"
       address:
-        street: 12 Clegge street
-        city: Warrington
-        region: Cheshire
-        postcode: WA2 7AT
-        country: United Kingdom
-        country_code: UK
-      # Automatically link email and phone or display as text?
+        street: "12 Clegge street"
+        city: "Warrington"
+        region: "Cheshire"
+        postcode: "WA2 7AT"
+        country: "United Kingdom"
+        country_code: "UK"
       autolink: true
-      # Email form provider
     design:
       columns: '2'
 ---
