@@ -24,6 +24,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: PhD Researcher
+          company: University of Manchester / Cockcroft Institute
+          company_url: ''
+          company_logo: ''
+          location: Warrington, UK
+          date_start: '2023-01-01'
+          date_end: ''
+          description: |2-
+             Responsibilities include:
+
+             * Develop numerical models and simulations of electron-beam dynamics using Python and MATLAB[cite: 2].
+             * Analyse experimental and simulation data to extract physical parameters, correlations, and performance metrics[cite: 2].
+             * Validate and optimise models using experimental data, sensitivity analysis, and automated Python workflows[cite: 2].
         - title: Master's thesis
           company: ICMUV institute
           company_url: ''
@@ -40,10 +53,10 @@ sections:
           date_start: '2023-02-04'
           date_end: '2023-02-28'
           description: |2-
-              Responsibilities include:
+             Responsibilities include:
 
-              * RF measurement methods 
-              * Beam Diagnostic of CLEAR beamline
+             * RF measurement methods 
+             * Beam Diagnostic of CLEAR beamline
         - title: Practical Researches
           company: SOLEIL institute
           company_url: ''
@@ -52,10 +65,10 @@ sections:
           date_start: '2022-10-01'
           date_end: '2023-01-31'
           description: |2-
-              Responsibilities include:
+             Responsibilities include:
 
-              * Crystallography by Low Energy Electron Diffraction
-              * Longitudinal Beam measurement of SOLEIL synchrotron
+             * Crystallography by Low Energy Electron Diffraction
+             * Longitudinal Beam measurement of SOLEIL synchrotron
         - title: Practical Researches
           company: INFN institute
           company_url: ''
@@ -64,44 +77,55 @@ sections:
           date_start: '2022-03-01'
           date_end: '2022-07-30'
           description: |2-
-              Responsibilities include:
+             Responsibilities include:
 
-              * Plasma Diagnostics for Plasma based Accelerators
-              * Image denoising by Artificial Inteligent
+             * Plasma Diagnostics for Plasma based Accelerators
+             * Image denoising by Artificial Inteligent
         - title: Teaching assistant
-          company: Urmia University
+          company: University of Manchester & Urmia University
           company_url: ''
-          company_logo: urmia
-          location: Urmia, Iran
+          company_logo: ''
+          location: Manchester, UK / Urmia, Iran
           date_start: '2019-08-01'
-          date_end: '2019-12-28'
+          date_end: ''
           description: |2-
-              Responsibilities include:
+             Responsibilities include:
 
-              * Solving problems of "Mathematical Methods for Physics "
-              * Performed all duties as a T.A. (for a class size of 43)
+             * Delivered undergraduate Mathematical Physics tutorials and laboratory demonstrating[cite: 2].
+             * Data analysis and student assessment evaluation.
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Achievements'
+      title: 'Achievements & Certifications'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2026-03-01'
+          description: ''
+          organization: IPAC 2026
+          organization_url: ''
+          title: 3rd Place - Hackathonino[cite: 2]
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2026-03-01'
+          description: ''
+          organization: IOP PABG
+          organization_url: ''
+          title: Best Student Poster Prize[cite: 2]
+          url: ''
         - certificate_url: https://www.se.manchester.ac.uk/phds-science-engineering/funding/deans-doctoral-scholarship/
           date_end: ''
           date_start: '2023-09-05'
           description: ''
           organization: Manchester University
           organization_url: https://www.se.manchester.ac.uk/phds-science-engineering/funding/deans-doctoral-scholarship/
-          title: Deans Doctoral Scholarship
+          title: Dean's Doctoral Scholarship[cite: 2]
           url: ''
         - certificate_url: https://www.master-lascala.eu/
           date_end: '2023-09-01'
@@ -109,7 +133,31 @@ sections:
           description: ''
           organization: Erasmus+
           organization_url: https://erasmus-plus.ec.europa.eu/
-          title: Erasmus Mundus Joint Masters scholarships for LASCALA program
+          title: Erasmus Mundus Joint Masters scholarships for LASCALA program[cite: 2]
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-01-01'
+          description: ''
+          organization: Advance HE
+          organization_url: ''
+          title: Associate Fellow of Advance HE (AFHEA)[cite: 2]
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-01-01'
+          description: ''
+          organization: Online Certification
+          organization_url: ''
+          title: Using Machine Learning in Trading and Finance Certificate[cite: 2]
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-01-01'
+          description: ''
+          organization: IBM
+          organization_url: ''
+          title: IBM Data Science Professional Certificate[cite: 2]
           url: ''
     design:
       columns: '2'
@@ -149,11 +197,6 @@ sections:
           - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
         - name: Compact particle accelerators
           tag: '*'
@@ -190,15 +233,15 @@ sections:
       subtitle:
       text: ''
       # Contact (add or remove contact options as necessary)
-      email: aras.aminim@gmail.com
+      email: a.aminii@outlook.com
       # phone: 888 888 88 88
       address:
-        street: Still looking for a place
-        city: ''
-        region: ''
-        postcode: ''
-        country: ''
-        country_code: ''
+        street: 12 Clegge street
+        city: Warrington
+        region: Cheshire
+        postcode: WA2 7AT
+        country: United Kingdom
+        country_code: UK
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
