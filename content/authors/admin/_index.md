@@ -16,7 +16,7 @@ role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Manchester University
+  - name: University of Manchester
     url: https://www.manchester.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,25 +24,22 @@ bio: My research interests include Novel Particle Acceleration Techniques, Accel
 
 # Interests to show in About widget
 interests:
-  - Particle Accelerators
-  - Medical Accelerator
-  - Numerical Simulation
-  - Artificial Intelligence
+  - Quantitative Finance & Time-Series Analysis
+  - Numerical Simulation & Statistical Modeling
+  - Particle Beam Dynamics & Stochastic Processes
+  - Machine Learning & Algorithmic Optimization
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Particle Accelerator
-      institution: Manchester University, UK
+    - course: Ph.D. in Particle Accelerator
+      institution: University of Manchester / Cockcroft Institute
       year: 2023-2027
-    - course: MSc in Physics
-      institution: Université Paris-Saclay, France
+    - course: Double Master's Degree in Physics (Accelerator Physics & Large Scale Facility Management)
+      institution: Paris-Saclay University / Sapienza University
       year: 2021-2023
-    - course: MSc in Physics
-      institution: Sapienza University of Rome, Italy
-      year: 2021-2023
-    - course: BSc in Nuclear Physics
-      institution: Urmia University, Iran
+    - course: Bachelor of Science in Physics
+      institution: Urmia University
       year: 2016-2020
 
 # Social/Academic Networking
@@ -76,11 +73,11 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'aras.aminim@gmail.com'
+email: 'a.aminii@outlook.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
- Aras Amini is a  Ph.D. candidate specializing in Particle Accelerator Physics at Manchester University. His research pursuits encompass Novel Particle Acceleration Techniques, Accelerator Applications, Numerical Simulation, and the Integration of Artificial Intelligence in Scientific Endeavors. Presently, he is working on THz-driven beam manipulation for external injection into plasmas.
+Final-year Ph.D. researcher in Physics at the University of Manchester, with a strong background in mathematical modelling, numerical simulation, statistical analysis, and scientific computing. I have focused my twenties on academic and research training, with the intention of transitioning into industry and gaining practical experience in my thirties. I am now looking to apply my quantitative and analytical skills to financial markets and quantitative research.
 {style="text-align: justify;"}
