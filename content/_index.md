@@ -29,8 +29,8 @@ sections:
           company_url: ''
           company_logo: ''
           location: "Warrington, UK"
-          date_start: '2023-01-01'
-          date_end: ''
+          date_start: '2023-09-01'
+          date_end: '2027-03-31'
           description: |2-
              Responsibilities include:
 
@@ -38,15 +38,15 @@ sections:
              * Analyse experimental and simulation data to extract physical parameters, correlations, and performance metrics.
              * Validate and optimise models using experimental data, sensitivity analysis, and automated Python workflows.
         - title: "Master's thesis"
-          company: "ICMUV institute"
+          company: "ICMUV Institute"
           company_url: ''
           company_logo: icmuv
           location: "Valencia, Spain"
           date_start: '2023-03-20'
           date_end: '2023-08-20'
           description: "Modeling ultra-high accelerating gradients in carbon-based nanostructures through an effective plasma-density approach."
-        - title: "Practical Researches"
-          company: "CERN institute"
+        - title: "Practical Research"
+          company: "CERN Institute"
           company_url: ''
           company_logo: cern-vector-logo
           location: "Geneva, Switzerland"
@@ -56,9 +56,9 @@ sections:
              Responsibilities include:
 
              * RF measurement methods 
-             * Beam Diagnostic of CLEAR beamline
-        - title: "Practical Researches"
-          company: "SOLEIL institute"
+             * Beam diagnostics of CLEAR beamline
+        - title: "Practical Research"
+          company: "SOLEIL Institute"
           company_url: ''
           company_logo: logo_0
           location: "Saint-Aubin, France"
@@ -68,9 +68,9 @@ sections:
              Responsibilities include:
 
              * Crystallography by Low Energy Electron Diffraction
-             * Longitudinal Beam measurement of SOLEIL synchrotron
-        - title: "Practical Researches"
-          company: "INFN institute"
+             * Longitudinal Beam measurement at the SOLEIL synchrotron
+        - title: "Practical Research"
+          company: "INFN Institute"
           company_url: ''
           company_logo: infn
           location: "Frascati, Italy"
@@ -79,8 +79,8 @@ sections:
           description: |2-
              Responsibilities include:
 
-             * Plasma Diagnostics for Plasma based Accelerators
-             * Image denoising by Artificial Inteligent
+             * Plasma Diagnostics for Plasma-based Accelerators
+             * Image denoising by Artificial Intelligence
         - title: "Teaching assistant"
           company: "University of Manchester & Urmia University"
           company_url: ''
@@ -103,7 +103,7 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2026-03-01'
+          date_start: '2026-04-19'
           description: ''
           organization: "IPAC 2026"
           organization_url: ''
@@ -111,7 +111,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2026-03-01'
+          date_start: '2026-07-01'
           description: ''
           organization: "IOP PABG"
           organization_url: ''
@@ -135,7 +135,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2023-01-01'
+          date_start: '2026-07-31'
           description: ''
           organization: "Advance HE"
           organization_url: ''
@@ -143,7 +143,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2023-01-01'
+          date_start: '2026-08-01'
           description: ''
           organization: "Online Certification"
           organization_url: ''
@@ -151,7 +151,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2023-01-01'
+          date_start: '2025-09-01'
           description: ''
           organization: "IBM"
           organization_url: ''
@@ -223,10 +223,10 @@ sections:
       text: ''
       email: "a.aminii@outlook.com"
       address:
-        street: "12 Clegge street"
+        street: "Cockcroft Institute,Keckwick Ln"
         city: "Warrington"
         region: "Cheshire"
-        postcode: "WA2 7AT"
+        postcode: "WA4 4AD"
         country: "United Kingdom"
         country_code: "UK"
       autolink: true
