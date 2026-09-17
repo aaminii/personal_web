@@ -1,6 +1,6 @@
 # Personal Academic Portfolio
 
-> **Live Website:** [https://aaminii.github.io](https://aaminii.github.io](https://aamini.netlify.app/) 
+> **Live Website:** [(https://aamini.netlify.app/)]
 
 Welcome to the source code for my personal professional and academic website. 
 
