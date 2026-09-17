@@ -34,9 +34,9 @@ sections:
           description: |2-
              Responsibilities include:
 
-             * Develop numerical models and simulations of electron-beam dynamics using Python and MATLAB[cite: 2].
-             * Analyse experimental and simulation data to extract physical parameters, correlations, and performance metrics[cite: 2].
-             * Validate and optimise models using experimental data, sensitivity analysis, and automated Python workflows[cite: 2].
+             * Develop numerical models and simulations of electron-beam dynamics using Python and MATLAB.
+             * Analyse experimental and simulation data to extract physical parameters, correlations, and performance metrics.
+             * Validate and optimise models using experimental data, sensitivity analysis, and automated Python workflows.
         - title: "Master's thesis"
           company: "ICMUV institute"
           company_url: ''
@@ -91,7 +91,7 @@ sections:
           description: |2-
              Responsibilities include:
 
-             * Delivered undergraduate Mathematical Physics tutorials and laboratory demonstrating[cite: 2].
+             * Delivered undergraduate Mathematical Physics tutorials and laboratory demonstrating.
              * Data analysis and student assessment evaluation.
     design:
       columns: '2'
@@ -107,7 +107,7 @@ sections:
           description: ''
           organization: "IPAC 2026"
           organization_url: ''
-          title: "3rd Place - Hackathonino"[cite: 2]
+          title: "3rd Place - Hackathonino"
           url: ''
         - certificate_url: ''
           date_end: ''
@@ -115,7 +115,7 @@ sections:
           description: ''
           organization: "IOP PABG"
           organization_url: ''
-          title: "Best Student Poster Prize"[cite: 2]
+          title: "Best Student Poster Prize"
           url: ''
         - certificate_url: 'https://www.se.manchester.ac.uk/phds-science-engineering/funding/deans-doctoral-scholarship/'
           date_end: ''
@@ -123,7 +123,7 @@ sections:
           description: ''
           organization: "Manchester University"
           organization_url: 'https://www.se.manchester.ac.uk/phds-science-engineering/funding/deans-doctoral-scholarship/'
-          title: "Dean's Doctoral Scholarship"[cite: 2]
+          title: "Dean's Doctoral Scholarship"
           url: ''
         - certificate_url: 'https://www.master-lascala.eu/'
           date_end: '2023-09-01'
@@ -131,7 +131,7 @@ sections:
           description: ''
           organization: "Erasmus+"
           organization_url: 'https://erasmus-plus.ec.europa.eu/'
-          title: "Erasmus Mundus Joint Masters scholarships for LASCALA program"[cite: 2]
+          title: "Erasmus Mundus Joint Masters scholarships for LASCALA program"
           url: ''
         - certificate_url: ''
           date_end: ''
@@ -139,7 +139,7 @@ sections:
           description: ''
           organization: "Advance HE"
           organization_url: ''
-          title: "Associate Fellow of Advance HE (AFHEA)"[cite: 2]
+          title: "Associate Fellow of Advance HE (AFHEA)"
           url: ''
         - certificate_url: ''
           date_end: ''
@@ -147,7 +147,7 @@ sections:
           description: ''
           organization: "Online Certification"
           organization_url: ''
-          title: "Using Machine Learning in Trading and Finance Certificate"[cite: 2]
+          title: "Using Machine Learning in Trading and Finance Certificate"
           url: ''
         - certificate_url: ''
           date_end: ''
@@ -155,7 +155,7 @@ sections:
           description: ''
           organization: "IBM"
           organization_url: ''
-          title: "IBM Data Science Professional Certificate"[cite: 2]
+          title: "IBM Data Science Professional Certificate"
           url: ''
     design:
       columns: '2'
